@@ -32,6 +32,6 @@ Open the project notebook and run the cells from beginning to end.
 
 ## Other GitHub Projects
 
-* [YOUR GITHUB PROJECT LINK]
-* [YOUR GITHUB PROJECT LINK]
-* [YOUR GITHUB PROJECT LINK]
+* (https://github.com/kinghighshow/Breast-cancer-detection-app.git)
+* https://github.com/kinghighshow/Heart-Disease-Prediction.git
+* https://github.com/kinghighshow/highsynk_study_companion.git
